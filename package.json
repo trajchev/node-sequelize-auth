@@ -1,0 +1,19 @@
+{
+  "name": "sequelize-auth",
+  "version": "1.0.0",
+  "description": "Auth sample app with MySQL db backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trajchev/node-sequelize-auth.git"
+  },
+  "author": "Ivan Trajchev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trajchev/node-sequelize-auth/issues"
+  },
+  "homepage": "https://github.com/trajchev/node-sequelize-auth#readme"
+}
